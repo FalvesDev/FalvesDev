@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FalvesDev](https://github.com/FalvesDev)
 
-- 📝 I regularly write articles on [https://felipealves.xyz/](https://felipealves.xyz/)
-
 - 📚 College studies level **I'm studying software engineering and have a degree in industrial automation**
 
 - 📫 How to reach me **fdevalves@gmail.com**
