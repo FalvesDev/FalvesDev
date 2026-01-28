@@ -46,16 +46,6 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalvesDev&theme=tokyonight" alt="Profile Details"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FalvesDev&theme=tokyonight" alt="Stats"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FalvesDev&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FalvesDev&theme=tokyonight" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FalvesDev&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
-</div>
-
 ## 📈 Gráfico de Atividade
 
 <div align="center">
