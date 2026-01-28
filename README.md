@@ -34,12 +34,6 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Linguagens Mais Usadas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -50,6 +44,10 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalvesDev&theme=tokyo-night&hide_border=true&custom_title=Contribuições%20nos%20Últimos%20Meses" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🌐 Conecte-se Comigo
