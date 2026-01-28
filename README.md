@@ -35,6 +35,12 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+## 📊 Linguagens Mais Usadas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -49,12 +55,6 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FalvesDev&theme=tokyonight" alt="Repos per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FalvesDev&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
-</div>
-
-## 🔥 Sequência de Commits
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FalvesDev&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ## 📈 Gráfico de Atividade
