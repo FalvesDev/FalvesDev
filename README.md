@@ -35,15 +35,10 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-## 📊 Estatísticas GitHub
+## 📊 Linguagens Mais Usadas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalvesDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FalvesDev&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Conecte-se Comigo
