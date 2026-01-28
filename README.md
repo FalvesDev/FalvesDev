@@ -37,6 +37,10 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 ## 📊 Estatísticas GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalvesDev&theme=tokyonight" alt="Profile Details"/>
 </div>
 
