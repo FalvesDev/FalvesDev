@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Olá!+Eu+sou+Felipe+Alves+%F0%9F%91%8B;Full+Stack+Developer+em+Formação;Transformando+Ideias+em+Código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hi!+I'm+Felipe+Alves+%F0%9F%91%8B;Full+Stack+Developer+in+Training;Turning+Ideas+into+Code" alt="Typing SVG" />
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar experiências web modernas e funcionais. Com formação em Automação Industrial e cursando Engenharia de Software, trago uma perspectiva única que combina pensamento lógico e criatividade técnica.
+Frontend Developer transitioning to Full Stack, passionate about creating modern and functional web experiences. With a background in Industrial Automation and studying Software Engineering, I bring a unique perspective that combines logical thinking and technical creativity.
 
-- 🔭 Atualmente trabalhando em projetos com **React.js**, **Next.js** e **TypeScript**
-- 🌱 Expandindo conhecimentos em **Node.js**, **APIs RESTful** e **Bancos de Dados**
-- 🎓 **Cursando**: Engenharia de Software
-- 🎯 **Formado em**: Automação Industrial
-- 💼 Confira meu portfólio completo em **[falves.dev](https://falves.dev)**
-- 🐉 Quando não estou codando, estou explorando masmorras em D&D
+- 🔭 Currently working on projects with **React.js**, **Next.js** and **TypeScript**
+- 🌱 Expanding knowledge in **Node.js**, **RESTful APIs** and **Databases**
+- 🎓 **Studying**: Software Engineering
+- 🎯 **Graduated in**: Industrial Automation
+- 💼 Check out my complete portfolio at **[falves.dev](https://falves.dev)**
+- 🐉 When I'm not coding, I'm exploring dungeons in D&D
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,54 +24,45 @@ Desenvolvedor Frontend em transição para Full Stack, apaixonado por criar expe
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Database (Em aprendizado)
+### Backend & Database (Learning)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-### Ferramentas & Outros
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Estatísticas GitHub
+## 💼 Featured Projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### 🌐 [Personal Portfolio](https://falves.dev)
+My professional portfolio built with modern web technologies, showcasing my projects and skills.
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FalvesDev&theme=tokyonight" alt="Profile Details"/>
-</div>
+**Tech:** Next.js, TypeScript, Tailwind CSS
 
-## 📈 Gráfico de Atividade
+### 📂 [View All My Projects →](https://github.com/FalvesDev?tab=repositories)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalvesDev&theme=tokyo-night&hide_border=true&custom_title=Contribuições%20nos%20Últimos%20Meses" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalvesDev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://falves.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-508323225/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdevalves@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FalvesDev)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FalvesDev&color=blueviolet&style=flat-square&label=Visitantes+do+Perfil" alt="Profile views" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=FalvesDev&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <div align="center">
   
-  **"Código limpo não é escrito seguindo regras. Você conhece que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava."** - Robert C. Martin
+  **"Clean code is not written by following rules. You know you wrote clean code when each routine you read is pretty much what you expected."** - Robert C. Martin
   
 </div>
